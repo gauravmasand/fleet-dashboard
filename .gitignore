@@ -1,0 +1,22 @@
+node_modules
+dist
+*.local
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# The challenge PDF is the company's document, not part of the submission source.
+Hiring-Challenge.pdf
